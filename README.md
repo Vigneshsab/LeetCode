@@ -11,3 +11,4 @@
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_701_.py) | Medium | Tree, Recursion |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_94_.py) | Easy | Tree |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_114_.py) | Medium | Tree, DFS |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_39_.py) | Medium | Array, Backtracking |
