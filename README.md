@@ -15,3 +15,4 @@
 | 11 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_11_.py) | Medium | Two pointer |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_344_.py) | Easy | Two pointer |
 | 15 | [Three Sum](https://leetcode.com/problems/3sum/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_15_.py) | Medium | Two pointer |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_74_.py) | Medium | Two pointer |
