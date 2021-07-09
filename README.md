@@ -18,3 +18,4 @@
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_74_.py) | Medium | Two pointer |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_345_.py) | Easy | Two pointer|
 | 3 | [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_3_.py) | Medium | Two pointer, Hashmap |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_69_.py) | Easy | Binary Search |
