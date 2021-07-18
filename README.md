@@ -20,3 +20,4 @@
 | 3 | [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_3_.py) | Medium | Two pointer, Hashmap |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_69_.py) | Easy | Binary Search |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_206_.py) | Easy | Linked List |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_48_.py) | Medium | 2D Array |
