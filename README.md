@@ -19,3 +19,4 @@
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_345_.py) | Easy | Two pointer|
 | 3 | [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_3_.py) | Medium | Two pointer, Hashmap |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_69_.py) | Easy | Binary Search |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_206_.py) | Easy | Linked List |
