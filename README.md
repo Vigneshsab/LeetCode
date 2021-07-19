@@ -21,3 +21,4 @@
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_69_.py) | Easy | Binary Search |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_206_.py) | Easy | Linked List |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_48_.py) | Medium | 2D Array |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_33_.py) | Medium | Binary Search, Array |
