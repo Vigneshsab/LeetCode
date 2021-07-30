@@ -26,3 +26,4 @@
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_200_.py) | Medium | BFS |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_53_.py) | Easy | Array |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_42_.py) | Hard | Array, Two pointers |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_2_.py) | Medium | Linked List |
