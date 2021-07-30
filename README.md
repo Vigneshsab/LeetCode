@@ -25,3 +25,4 @@
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_151_.py) | Medium | String, Two pointer|
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_200_.py) | Medium | BFS |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_53_.py) | Easy | Array |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_42_.py) | Hard | Array, Two pointers |
