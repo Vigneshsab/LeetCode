@@ -30,3 +30,4 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_125_.py) | Easy | Two pointers |
 | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_186_.py) | Medium | Two pointers |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_56_.py) | Medium | Two pointers| 
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_54_.py) | Medium | Array, Matrix |
