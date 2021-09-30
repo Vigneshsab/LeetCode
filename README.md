@@ -37,3 +37,5 @@
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_929_.py) | Easy | Arrays, Hashmap |
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_482_.py) | Easy | Arrays |
 | 904 | [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_904_.py) | Medium | Two pointer |
+| 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_340_.py) | Medium | Two pointer |
+
