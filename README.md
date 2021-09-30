@@ -36,3 +36,4 @@
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_238_.py) | Medium | Arrays |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_929_.py) | Easy | Arrays, Hashmap |
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_482_.py) | Easy | Arrays |
+| 904 | [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_904_.py) | Medium | Two pointer |
