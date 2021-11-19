@@ -40,3 +40,5 @@
 | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_340_.py) | Medium | Two pointer |
 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_163_.py) | Easy | String |
 | 973 | [K Closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_973_.py) | Medium | Heap |
+| 347 | [Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_347_.py) | Medium | Heap |
+
