@@ -42,3 +42,4 @@
 | 973 | [K Closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_973_.py) | Medium | Heap |
 | 347 | [Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_347_.py) | Medium | Heap |
 | 215 | [Kth largest elements in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_215_.py) | Medium | Heap |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_278_.py) | Easy | Binary Search |
