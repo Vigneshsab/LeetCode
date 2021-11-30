@@ -43,3 +43,4 @@
 | 347 | [Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_347_.py) | Medium | Heap |
 | 215 | [Kth largest elements in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_215_.py) | Medium | Heap |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_278_.py) | Easy | Binary Search |
+| 1249 | [Minimum Remove to Make Valid Parenthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_1249_.py) | Medium | Stack |
