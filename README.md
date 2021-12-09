@@ -47,4 +47,4 @@
 | 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_314_.py) | Medium | Binary Tree |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_415_.py) | Easy | String |
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_938_.py) | Easy | BST |
-
+| 1762 | [Buildings with an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_1762_.py) | Medium | Stack |
