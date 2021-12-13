@@ -51,3 +51,4 @@
 | 408 | [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_408_.py) | Easy | String |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_124_.py) | Hard | Binary Tree |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_543_.py) | Easy | Binary Tree |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_71_.py) | Medium | Stack |
