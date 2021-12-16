@@ -54,3 +54,4 @@
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_71_.py) | Medium | Stack |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_224_.py) | Hard | Stack |
 | 1428 | [Leftmost column with atleast a one](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_1428_.py) | Medium | Pointers |
+| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_173_.py) | Medium | Recursion |
