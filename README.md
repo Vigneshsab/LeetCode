@@ -55,3 +55,5 @@
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_224_.py) | Hard | Stack |
 | 1428 | [Leftmost column with atleast a one](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_1428_.py) | Medium | Pointers |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_173_.py) | Medium | Recursion |
+| 1570 | [Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_1570_.py) | Medium | Hashmap |
+| 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_653_.py) | Easy | BST |
