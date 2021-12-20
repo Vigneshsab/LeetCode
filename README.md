@@ -59,3 +59,4 @@
 | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_653_.py) | Easy | BST |
 | 528 | [Random Pick Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_528_.py) | Medium | Binary Search |
 | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_270_.py) | Easy | BST |
+| 1650 | [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_1650_.py) | Medium | Binary Tree |
