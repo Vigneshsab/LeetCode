@@ -61,3 +61,5 @@
 | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_270_.py) | Easy | BST |
 | 1650 | [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_1650_.py) | Medium | Binary Tree |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_67_.py) | Easy | String |
+| 968 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_968_.py) | Medium | Two Pointers |
+| 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_523_.py) | Medium | Hash table |
