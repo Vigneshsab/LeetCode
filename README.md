@@ -63,3 +63,4 @@
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_67_.py) | Easy | String |
 | 968 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_968_.py) | Medium | Two Pointers |
 | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_523_.py) | Medium | Hash table |
+| 339 | [Nested List Weighted Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [Solution](https://github.com/Vigneshsab/LeetCode/blob/main/src/python/_339_.py) | Medium | BFS |
